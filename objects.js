@@ -13,3 +13,5 @@ const otherCar = {
 };
 
 console.log(otherCar);
+
+// This is only a test
